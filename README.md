@@ -11,6 +11,7 @@ For the app I used Streamlit framework.
 App is in Russian because questions I was retreaving are also in Russian.
 
 --------------------------------------------------------------------------------------------------------------------------
-<img width="697" alt="image" src="https://github.com/user-attachments/assets/18402a19-f351-4d32-ad0e-9665f4020764" />
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/4bc0cc63-a896-4a4e-8011-3eb67d4468e7" />
+
 
 
